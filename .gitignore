@@ -1,0 +1,14 @@
+*.pyc
+*~
+__pycache__
+.DS_Store
+*.DS_Store
+*migrations/
+*.sqlite3
+debug-error.log
+timestint/settings/
+*media/
+static/
+nohup.out
+.vscode/
+db.json
